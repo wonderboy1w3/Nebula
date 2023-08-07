@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Nebula\Nebula.Domain\bin\Debug\net6.0\Nebula.Domain.deps.json
+C:\Users\user\Desktop\Nebula\Nebula.Domain\bin\Debug\net6.0\Nebula.Domain.dll
+C:\Users\user\Desktop\Nebula\Nebula.Domain\bin\Debug\net6.0\Nebula.Domain.pdb
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\Nebula.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\Nebula.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\Nebula.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\Nebula.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\Nebula.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\Nebula.Domain.dll
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\refint\Nebula.Domain.dll
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\Nebula.Domain.pdb
+C:\Users\user\Desktop\Nebula\Nebula.Domain\obj\Debug\net6.0\ref\Nebula.Domain.dll

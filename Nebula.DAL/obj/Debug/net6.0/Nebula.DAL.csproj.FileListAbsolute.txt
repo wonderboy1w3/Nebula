@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Nebula\Nebula.DAL\bin\Debug\net6.0\Nebula.DAL.deps.json
+C:\Users\user\Desktop\Nebula\Nebula.DAL\bin\Debug\net6.0\Nebula.DAL.runtimeconfig.json
+C:\Users\user\Desktop\Nebula\Nebula.DAL\bin\Debug\net6.0\Nebula.DAL.dll
+C:\Users\user\Desktop\Nebula\Nebula.DAL\bin\Debug\net6.0\Nebula.DAL.pdb
+C:\Users\user\Desktop\Nebula\Nebula.DAL\bin\Debug\net6.0\Nebula.Domain.dll
+C:\Users\user\Desktop\Nebula\Nebula.DAL\bin\Debug\net6.0\Nebula.Domain.pdb
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.csproj.CopyComplete
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.dll
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\refint\Nebula.DAL.dll
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.pdb
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\Nebula.DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\Nebula\Nebula.DAL\obj\Debug\net6.0\ref\Nebula.DAL.dll

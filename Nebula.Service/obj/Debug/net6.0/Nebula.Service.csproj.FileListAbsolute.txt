@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Nebula\Nebula.Service\bin\Debug\net6.0\Nebula.Service.deps.json
+C:\Users\user\Desktop\Nebula\Nebula.Service\bin\Debug\net6.0\Nebula.Service.dll
+C:\Users\user\Desktop\Nebula\Nebula.Service\bin\Debug\net6.0\Nebula.Service.pdb
+C:\Users\user\Desktop\Nebula\Nebula.Service\bin\Debug\net6.0\Nebula.DAL.dll
+C:\Users\user\Desktop\Nebula\Nebula.Service\bin\Debug\net6.0\Nebula.Domain.dll
+C:\Users\user\Desktop\Nebula\Nebula.Service\bin\Debug\net6.0\Nebula.DAL.pdb
+C:\Users\user\Desktop\Nebula\Nebula.Service\bin\Debug\net6.0\Nebula.Domain.pdb
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\Nebula.Service.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\Nebula.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\Nebula.Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\Nebula.Service.AssemblyInfo.cs
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\Nebula.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\Nebula.Service.csproj.CopyComplete
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\Nebula.Service.dll
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\refint\Nebula.Service.dll
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\Nebula.Service.pdb
+C:\Users\user\Desktop\Nebula\Nebula.Service\obj\Debug\net6.0\ref\Nebula.Service.dll
