@@ -6012,19 +6012,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\mansu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lesson\\Nebula\\Nebula.Service\\Nebula.Service.csproj",
+      "projectUniqueName": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Service\\Nebula.Service.csproj",
       "projectName": "Nebula.Service",
-      "projectPath": "D:\\Lesson\\Nebula\\Nebula.Service\\Nebula.Service.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Lesson\\Nebula\\Nebula.Service\\obj\\",
+      "projectPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Service\\Nebula.Service.csproj",
+      "packagesPath": "C:\\Users\\mansu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mansu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6038,11 +6038,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Lesson\\Nebula\\Nebula.DAL\\Nebula.DAL.csproj": {
-              "projectPath": "D:\\Lesson\\Nebula\\Nebula.DAL\\Nebula.DAL.csproj"
+            "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.DAL\\Nebula.DAL.csproj": {
+              "projectPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.DAL\\Nebula.DAL.csproj"
             },
-            "D:\\Lesson\\Nebula\\Nebula.Domain\\Nebula.Domain.csproj": {
-              "projectPath": "D:\\Lesson\\Nebula\\Nebula.Domain\\Nebula.Domain.csproj"
+            "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Domain\\Nebula.Domain.csproj": {
+              "projectPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Domain\\Nebula.Domain.csproj"
             }
           }
         }
@@ -6078,7 +6078,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

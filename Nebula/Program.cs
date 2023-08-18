@@ -2,11 +2,7 @@
 
 
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Nebula.DAL.Contexts;
-using Nebula.Domain;
-using Nebula.Service.DTOs.Cards;
-using Nebula.Service.Interfaces;
 //using Nebula.Service.Services;
 
 //ICardService cardService = new CardService();

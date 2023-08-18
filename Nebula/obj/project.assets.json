@@ -6030,19 +6030,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\mansu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lesson\\Nebula\\Nebula\\Nebula.Console.csproj",
+      "projectUniqueName": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula\\Nebula.Console.csproj",
       "projectName": "Nebula.Console",
-      "projectPath": "D:\\Lesson\\Nebula\\Nebula\\Nebula.Console.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Lesson\\Nebula\\Nebula\\obj\\",
+      "projectPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula\\Nebula.Console.csproj",
+      "packagesPath": "C:\\Users\\mansu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mansu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6056,8 +6056,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Lesson\\Nebula\\Nebula.Service\\Nebula.Service.csproj": {
-              "projectPath": "D:\\Lesson\\Nebula\\Nebula.Service\\Nebula.Service.csproj"
+            "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Service\\Nebula.Service.csproj": {
+              "projectPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Service\\Nebula.Service.csproj"
             }
           }
         }
@@ -6087,7 +6087,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

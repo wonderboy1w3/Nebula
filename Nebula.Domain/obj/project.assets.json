@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\mansu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lesson\\Nebula\\Nebula.Domain\\Nebula.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Domain\\Nebula.Domain.csproj",
       "projectName": "Nebula.Domain",
-      "projectPath": "D:\\Lesson\\Nebula\\Nebula.Domain\\Nebula.Domain.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Lesson\\Nebula\\Nebula.Domain\\obj\\",
+      "projectPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Domain\\Nebula.Domain.csproj",
+      "packagesPath": "C:\\Users\\mansu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mansu\\Source\\Repos\\Nebula\\Nebula.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mansu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

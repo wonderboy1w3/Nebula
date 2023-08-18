@@ -1,12 +1,11 @@
 ﻿using AutoMapper;
-using Nebula.Domain;
-using Nebula.Service.Mappers;
-using Nebula.DAL.Repositories;
-using Nebula.DAL.IRepositories;
-using Nebula.Service.DTOs.Users;
-using Nebula.Service.Interfaces;
-using Nebula.Service.DTOs.Cards;
 using Microsoft.EntityFrameworkCore;
+using Nebula.DAL.IRepositories;
+using Nebula.DAL.Repositories;
+using Nebula.Domain;
+using Nebula.Service.DTOs.Cards;
+using Nebula.Service.Interfaces;
+using Nebula.Service.Mappers;
 
 namespace Nebula.Service.Services;
 
